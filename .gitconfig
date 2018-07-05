@@ -1,0 +1,14 @@
+[user]
+	name = chenxi
+	email = 741985361@qq.com
+[core]
+	autocrlf = input
+	editor = emacs
+[alias]
+	st = status
+	logd = log --oneline --decorate --graph
+	co = checkout
+## [http]
+# 	proxy = 'socks5://127.0.0.1:1080'
+# [https]
+# 	proxy = 'socks5://127.0.0.1:1080'
